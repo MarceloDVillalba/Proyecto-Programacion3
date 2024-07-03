@@ -1,0 +1,5 @@
+com.mycompany.concesionaria
+com.mycompany.concesionaria.igu
+com.mycompany.concesionaria.logica
+com.mycompany.concesionaria.persistencia
+com.mycompany.concesionaria.persistencia.exceptions

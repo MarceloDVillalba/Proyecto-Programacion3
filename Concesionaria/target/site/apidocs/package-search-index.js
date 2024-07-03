@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.mycompany.concesionaria"},{"l":"com.mycompany.concesionaria.igu"},{"l":"com.mycompany.concesionaria.logica"},{"l":"com.mycompany.concesionaria.persistencia"},{"l":"com.mycompany.concesionaria.persistencia.exceptions"}];updateSearchResults();
